@@ -1,4 +1,4 @@
-// Dependencies
+﻿// Dependencies
 var express = require('express'),
     OpenTok = require('../../lib/opentok');
 
@@ -66,7 +66,7 @@ var apiFunction = function(req, res) {
 
 // Start the express app
 function init() {
-  app.listen(3000, function() {
-    console.log('You\'re app is now ready at http://localhost:3000/');
+  app.listen(5000, function() {
+    console.log('You\'re app is now ready at http://localhost:5000/');
   });
 }
