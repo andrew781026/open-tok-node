@@ -2,7 +2,7 @@
   "name": "node-js-opentok-project",
   "description": "Start on Heroku: Node.js with opentok",
   "repository": "https://github.com/andrew781026/open-tok-node.git",
-  "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/master/public/node.svg",
+  "logo": "https://cdn.jsdelivr.net/gh/heroku/node-js-getting-started/public/node.svg",
   "keywords": ["node", "express", "heroku"],
   "image": "heroku/nodejs"
 }
